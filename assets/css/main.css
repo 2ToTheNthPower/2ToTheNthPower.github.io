@@ -2953,11 +2953,11 @@ input, select, textarea {
 			}
 
 			.gallery a.landscape {
-				width: 100%;
+				width: 90%;
 			}
 
 				.gallery a.landscape img {
-					height: 30vw;
+					height: 17vw;
 				}
 
 			.gallery a.portrait img {
