@@ -2930,8 +2930,9 @@ input, select, textarea {
 	.gallery {
 		display: flex;
 		flex-wrap: wrap;
-		margin: -1.25rem 0 0 -1.25rem;
+		margin: 1% 0 0 1%;
 		width: calc(100% + 1.25rem);
+		margin-bottom: 10px;
 	}
 
 		.gallery a {
@@ -3275,6 +3276,7 @@ input, select, textarea {
 				grid-area: content;
 				max-width: 60rem;
 				position: relative;
+				margin-bottom: 10px;
 			}
 
 			#wrapper section > footer {
